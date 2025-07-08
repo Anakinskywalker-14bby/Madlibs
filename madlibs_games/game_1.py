@@ -8,3 +8,6 @@ madlibs = f"Computer programming is so {adj}! It makes me so excited all the tim
  Finally, stay hydrated and {verb2} like you are a {super_hero}! KACHOW!"
         
 print(madlibs)
+
+if __name__ == '__main__':
+    game_1()

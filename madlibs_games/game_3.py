@@ -28,4 +28,4 @@ the other twenty-three tributes. Which I have been instructed not to do."
     print(game_3)
 
 if __name__ == '__main__':
-    madlib()
+    game_3()

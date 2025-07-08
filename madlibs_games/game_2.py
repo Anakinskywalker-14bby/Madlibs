@@ -19,3 +19,6 @@ They were {adj2} and {adj3}, unknowing how to act in this human world... except 
 That was their sole mission and they were dedicated towards achieving it for the sake of {noun1}."
     
     print(game_2)
+    
+if __name__ == '__main__':
+    game_2()
