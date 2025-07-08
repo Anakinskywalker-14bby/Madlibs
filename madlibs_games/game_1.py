@@ -1,4 +1,3 @@
-
 adj = input("Adjective: ")
 verb1 = input("Verb: ")
 verb2 = input("Verb: ")
@@ -10,4 +9,4 @@ madlibs = f"Computer programming is so {adj}! It makes me so excited all the tim
 print(madlibs)
 
 if __name__ == '__main__':
-    game_1()
+    madlibs()
